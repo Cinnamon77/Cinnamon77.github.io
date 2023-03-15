@@ -4,6 +4,32 @@
   
     
     <entry>
+      <title>3.15星期三</title>
+      <link href="/2023/03/15/3-15%E6%98%9F%E6%9C%9F%E4%B8%89/"/>
+      <url>/2023/03/15/3-15%E6%98%9F%E6%9C%9F%E4%B8%89/</url>
+      
+        <content type="html"><![CDATA[<h1 id=""><a href="#" class="headerlink" title=""></a></h1><p>不知道说些什么，周三时间很充裕，应该好好学习。不过今天有点烦吧，昨天英语小测没带耳机，得了64，今天早上高数不会，物理实验小测得了60。</p><p>他也在图书馆，不知道为什么今天他的位置换了方向，是为了不看到我吗，应该是我想多了。</p><p>今天有体测，结束去健身房，然后回来刷leetcode。我要好好学习了吧，有点摆烂最近。</p><p>也许慢慢来，会接近他？（这句话可真ex）算了，打会音游。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>动态规划</title>
+      <link href="/2023/03/14/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/"/>
+      <url>/2023/03/14/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/</url>
+      
+        <content type="html"><![CDATA[<h1 id="背包问题"><a href="#背包问题" class="headerlink" title="背包问题"></a>背包问题</h1><h4 id="01背包问题"><a href="#01背包问题" class="headerlink" title="01背包问题"></a>01背包问题</h4><pre><code class="cpp">#include&lt;iostream&gt;#include&lt;algorithm&gt;using namespace std;const int N=1010;int n,m;int v[N],w[N];int f[N];int main()&#123;    cin&gt;&gt;n&gt;&gt;m;    for(int i=1;i&lt;=n;++i)cin&gt;&gt;v[i]&gt;&gt;w[i];        for(int i=1;i&lt;=n;++i)        for(int j=m;j&gt;=v[i];j--)            f[j]=max(f[j],f[j-v[i]]+w[i]);                cout&lt;&lt;f[m]&lt;&lt;endl;&#125;</code></pre>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Cinnamon生活随笔</title>
       <link href="/2023/03/14/Cinnamon%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
       <url>/2023/03/14/Cinnamon%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/</url>

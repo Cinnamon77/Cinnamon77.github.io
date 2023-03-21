@@ -4,6 +4,45 @@
   
     
     <entry>
+      <title>快捷键</title>
+      <link href="/2023/03/21/%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
+      <url>/2023/03/21/%E5%BF%AB%E6%8D%B7%E9%94%AE/</url>
+      
+        <content type="html"><![CDATA[<p>alt+F4 关闭页面</p><p>win+d 最小化</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>python学习</title>
+      <link href="/2023/03/21/python%E5%AD%A6%E4%B9%A0/"/>
+      <url>/2023/03/21/python%E5%AD%A6%E4%B9%A0/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Data-structure"><a href="#Data-structure" class="headerlink" title="Data structure"></a>Data structure</h2><p>list :append()加一个或者一个list</p><p>insert(position,item)</p><p>extend([]) </p><p>tuple:+连接</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>3.21</title>
+      <link href="/2023/03/21/3-21/"/>
+      <url>/2023/03/21/3-21/</url>
+      
+        <content type="html"><![CDATA[<p>很喜欢村上春树的文字，最喜欢且听风吟</p><p>simple but powerful</p><p>“回家路上，我一直吹着口哨。这是一支不知在哪里听过的曲子，但名字却总也记不起来。是很久<br>以前的老歌了。我把车停在海滨公路上，一面望着黑夜中的大海，一面竭力想那歌名。<br>是《米老鼠俱乐部之歌》。歌词我想是这样的：<br>我们大家喜欢的口令，MIC KEY MOUSE<br>说不定真的算是不错的时代。”</p><h1 id="且听风吟的歌单："><a href="#且听风吟的歌单：" class="headerlink" title="且听风吟的歌单："></a>且听风吟的歌单：</h1><p>米老鼠俱乐部之歌</p><p>佐治亚的雨夜</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>贪心算法</title>
       <link href="/2023/03/15/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/"/>
       <url>/2023/03/15/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/</url>

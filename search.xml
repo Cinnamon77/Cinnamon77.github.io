@@ -4,11 +4,37 @@
   
     
     <entry>
+      <title>informal essay</title>
+      <link href="/2023/03/23/3-23/"/>
+      <url>/2023/03/23/3-23/</url>
+      
+        <content type="html"><![CDATA[<p>   jm好像，把他的头发剪短了。至少两边短了。我在四楼的北区，每天，都被图书馆的隔板遮挡视线。能不能某一天，坐在一起呢。我最近要控制体重了，早点下到99。</p><p>  我最近喜欢上爵士乐，猫王的歌似乎刻在了我的灵魂中。“For I still recall the summer sun, through all winter rain”.</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>要去的地方</title>
+      <link href="/2023/03/21/%E8%A6%81%E5%8E%BB%E7%9A%84%E5%9C%B0%E6%96%B9/"/>
+      <url>/2023/03/21/%E8%A6%81%E5%8E%BB%E7%9A%84%E5%9C%B0%E6%96%B9/</url>
+      
+        <content type="html"><![CDATA[<p>比利时布鲁日</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>快捷键</title>
       <link href="/2023/03/21/%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
       <url>/2023/03/21/%E5%BF%AB%E6%8D%B7%E9%94%AE/</url>
       
-        <content type="html"><![CDATA[<p>alt+F4 关闭页面</p><p>win+d 最小化</p>]]></content>
+        <content type="html"><![CDATA[<p>alt+F4 关闭页面</p><p>win+d 最小化</p><h2 id="pycharm"><a href="#pycharm" class="headerlink" title="pycharm"></a>pycharm</h2><p>ctrl+d 复制一行</p><p>ctrl+shift+v 显示剪切板历史记录</p><p>Ctrl + Shift + F10 可以运行当前文件</p><p>Shift + F10 可以运行上一次运行的配置</p><p>Ctrl+Alt+F7 打开文件夹</p><p>Ctrl+slash 单行注释</p><p>Ctrl +slash +shift 多行注释</p><p>Ctrl + w 扩展代码选择</p>]]></content>
       
       
       
@@ -21,7 +47,7 @@
       <link href="/2023/03/21/python%E5%AD%A6%E4%B9%A0/"/>
       <url>/2023/03/21/python%E5%AD%A6%E4%B9%A0/</url>
       
-        <content type="html"><![CDATA[<h2 id="Data-structure"><a href="#Data-structure" class="headerlink" title="Data structure"></a>Data structure</h2><p>list :append()加一个或者一个list</p><p>insert(position,item)</p><p>extend([]) </p><p>tuple:+连接</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="cs6b1"><a href="#cs6b1" class="headerlink" title="cs6b1"></a>cs6b1</h2><p>diagram </p><p>Frames Objects</p><p>An environment is a sequence of frames.</p><p>A frame is a binding between names and values.</p><p>Look for fitst in the local frame; second in the global frame.</p><h2 id="Data-structure"><a href="#Data-structure" class="headerlink" title="Data structure"></a>Data structure</h2><p>list :append()加一个或者一个list</p><p>insert(position,item)</p><p>extend([]) </p><p>tuple:+连接</p><p>列表推导式 [表达式 for 迭代变量 in 可迭代变量[if 条件表达式]]（list comprehension)</p><p>两层循环 [(x,y) for x in range(1,4) for y in range(1,5)]</p><p>运行时间：</p><p>import time</p><p>s_time&#x3D;time.perf_counter()<br>demo1()<br>e_time&#x3D;time.perf_counter()  </p><p>print(“运行时间：”,e_time-s_time)</p><p>dictionary中不能有重复key，会覆盖</p>]]></content>
       
       
       

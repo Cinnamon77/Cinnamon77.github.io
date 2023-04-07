@@ -4,6 +4,63 @@
   
     
     <entry>
+      <title>4.7Friday</title>
+      <link href="/2023/04/07/4-7Friday/"/>
+      <url>/2023/04/07/4-7Friday/</url>
+      
+        <content type="html"><![CDATA[<p>   今天有点烦躁，我想应该没有喜欢他。喜欢感觉很奇妙，可能总不能因为，名字最后一个字和林骏明一样，就产生感觉吧。</p><p>  那可能是因为是同班同学，可能是享受被照顾，陪伴的感觉，也可能只是单纯的太无聊了。</p><p>我想我需要一个清晰的对未来的规划了。</p><p>  我需要问问自己到底想要什么。</p><p>  我非常渴望爱情，可是爱情是奢侈品。爱人先爱己。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 随笔 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>摘抄</title>
+      <link href="/2023/03/29/post/"/>
+      <url>/2023/03/29/post/</url>
+      
+        <content type="html"><![CDATA[<p>”社会中的男性更倾向于快速征服女性的短期策略，而女性思维则倾向于长期策略，选择和一个有责任心，忠诚能帮助抚养孩子的男人结婚”——叔本华</p><p>“占有欲和神秘感始终是男人的天性。”——叔本华</p><p>“人生就像钟摆，不断在痛苦和无聊之间摇摆。”——叔本华</p><p>婚姻的意义：我愿意和那个人一起享受生活，一起做平常的事情，而那些事情本身就是意义所在。</p><p>武士道精神：勇气、忠诚、荣誉、诚实、自我控制和礼仪</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>大学物理</title>
+      <link href="/2023/03/29/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/"/>
+      <url>/2023/03/29/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 校内课程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 校内课程 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>post</title>
       <link href="/2023/03/27/3.27/"/>
       <url>/2023/03/27/3.27/</url>
@@ -21,7 +78,7 @@
       <link href="/2023/03/25/recording/"/>
       <url>/2023/03/25/recording/</url>
       
-        <content type="html"><![CDATA[<p>  No matter what people perceive of me, I always shine through at the end of the day. So I’ve had a lot of people try to tear me down. But I’m here. And I’ve always been </p><p>myself, and I’ve always wanted that, and I’ve been graceful, and I’ve tried to handle myself with as much class. And it’s only because I know how hard I work. And I’m not gonna let any of that get to me.</p><p>  男人除了ljm都是shit，我要赚钱买一辆红色跑车，就要，法拉利。</p><ul><li>Always ask yourself, “Are you doing your best?”</li></ul>]]></content>
+        <content type="html"><![CDATA[<p>  No matter what people perceive of me, I always shine through at the end of the day. So I’ve had a lot of people try to tear me down. But I’m here. And I’ve always been </p><p>myself, and I’ve always wanted that, and I’ve been graceful, and I’ve tried to handle myself with as much class. And it’s only because I know how hard I work. And I’m not gonna let any of that get to me.</p><p>  男人除了ljm都是shit，我要赚钱买一辆红色跑车，就要，法拉利。</p><ul><li><p>Always ask yourself, “Are you doing your best?”</p></li><li><p>万木霜天红烂漫，天兵怒气重霄汉。</p><p>化逃避为平衡，跳出二元思维陷阱</p><p>阿尼玛和阿尼姆斯</p><p>二元性(人性和狼性)</p><p>“你连舞都不想跳，怎么能说已经做出极大努力去生活呢。”——《荒原狼》(赫尔曼黑塞)</p><p>用幽默接受每一种人格</p></li></ul>]]></content>
       
       
       
@@ -30,11 +87,11 @@
     
     
     <entry>
-      <title>json</title>
-      <link href="/2023/03/23/json/"/>
-      <url>/2023/03/23/json/</url>
+      <title>网络编程</title>
+      <link href="/2023/03/23/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/"/>
+      <url>/2023/03/23/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/</url>
       
-        <content type="html"><![CDATA[<p>(1)”key:value”</p><p>(2)key&#x3D;[{},{},{}]</p><p>数组下标从0开始</p><p>（3）vscode可在右上… 处找到格式化 ctrl+Alt+b</p><p>（4）\n    \r    \n\r    为换行，选择取决于json解释器</p><p>（5）&quot; 转义引号</p>]]></content>
+        <content type="html"><![CDATA[<p>(1)”key:value”</p><p>(2)key&#x3D;[{},{},{}]</p><p>数组下标从0开始</p><p>（3）vscode可在右上… 处找到格式化 ctrl+Alt+b</p><p>（4）\n    \r    \n\r    为换行，选择取决于json解释器</p><p>（5）&quot; 转义引号</p><h2 id="socket"><a href="#socket" class="headerlink" title="socket"></a>socket</h2><p>是什么：代码库或接口层(介于内核和应用程序之间)</p><p>IP：具体到电脑</p><p>端口：具体到进程</p><p>面向不同协议&#x3D;&#x3D;面向不同对象</p><p>协议：TCP ICMP UDP</p><h3 id="sock-数据结构"><a href="#sock-数据结构" class="headerlink" title="sock 数据结构"></a>sock 数据结构</h3><p>tcp_sock (以inet_connection_sock()为基础，加入滑动窗口）</p><p>常用API：send()    recv()    bind()    listen()    connect()    </p><p>由socket提供</p><h4 id="对比"><a href="#对比" class="headerlink" title="对比"></a>对比</h4><p>前端——&gt;(API)——&gt;后端</p><p>进程——&gt;(socket)——&gt;内核</p><p>Linux:应用程序和内核</p><p>socket进程对比TCP</p><p>建立链接</p><p>connect(sock_fd,IP:port)</p><p>传输数据</p><p>缓冲区：链表</p><p>send(sock_fd,消息)</p><p>recv(sock_fd) 将数据由缓冲区转移至应用程序</p><p>四元组：发送方IP，发送方port，接收方port,接收方IP</p><p>四元组——&gt;Hash函数——&gt; Hash Key</p><h2 id="TCP"><a href="#TCP" class="headerlink" title="TCP"></a>TCP</h2><p>建立链接</p><p>传输数据</p>]]></content>
       
       
       
@@ -60,7 +117,7 @@
       <link href="/2023/03/21/%E8%A6%81%E5%8E%BB%E7%9A%84%E5%9C%B0%E6%96%B9/"/>
       <url>/2023/03/21/%E8%A6%81%E5%8E%BB%E7%9A%84%E5%9C%B0%E6%96%B9/</url>
       
-        <content type="html"><![CDATA[<p>比利时布鲁日</p>]]></content>
+        <content type="html"><![CDATA[<p>比利时布鲁日</p><p>悬崖</p>]]></content>
       
       
       
@@ -73,7 +130,7 @@
       <link href="/2023/03/21/%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
       <url>/2023/03/21/%E5%BF%AB%E6%8D%B7%E9%94%AE/</url>
       
-        <content type="html"><![CDATA[<p>alt+F4 关闭页面</p><p>win+d 最小化</p><h2 id="命令提示符"><a href="#命令提示符" class="headerlink" title="命令提示符"></a>命令提示符</h2><p>import os</p><p>os.system(‘cls’)</p><h2 id="pycharm"><a href="#pycharm" class="headerlink" title="pycharm"></a>pycharm</h2><p>ctrl+d 复制一行</p><p>ctrl+shift+v 显示剪切板历史记录</p><p>Ctrl + Shift + F10 可以运行当前文件</p><p>Shift + F10 可以运行上一次运行的配置</p><p>Ctrl+Alt+F7 打开文件夹</p><p>Ctrl+slash 单行注释</p><p>Ctrl +slash +shift 多行注释</p><p>Ctrl + w 扩展代码选择</p>]]></content>
+        <content type="html"><![CDATA[<p>alt+F4 关闭页面</p><p>win+d 最小化</p><h2 id="命令提示符"><a href="#命令提示符" class="headerlink" title="命令提示符"></a>命令提示符</h2><p>import os</p><p>os.system(‘cls’)</p><h2 id="pycharm"><a href="#pycharm" class="headerlink" title="pycharm"></a>pycharm</h2><p>ctrl+d 复制一行</p><p>ctrl+shift+v 显示剪切板历史记录</p><p>Ctrl + Shift + F10 可以运行当前文件</p><p>Shift + F10 可以运行上一次运行的配置</p><p>Ctrl+Alt+F7 打开文件夹</p><p>Ctrl+slash 单行注释</p><p>Ctrl +slash +shift 多行注释</p><p>Ctrl + w 扩展代码选择</p><ol><li><p>常规操作：</p><ul><li>Ctrl + S：保存文件</li><li>Ctrl + C：复制选中的文本</li><li>Ctrl + X：剪切选中的文本</li><li>Ctrl + V：粘贴文本</li><li>Ctrl + Z：撤销上一次操作</li><li>Ctrl + Shift + Z：重做上一次操作</li><li>Ctrl + F：查找文本</li><li>Ctrl + Shift + F：查找和替换文本</li><li>Ctrl + A：选中所有文本</li><li>Ctrl + D：复制当前行或选中的文本</li><li>Ctrl + Shift + U：将选中的文本转换为大写或小写</li><li>Ctrl + &#x2F;：注释或取消注释选中的代码</li></ul></li><li><p>编辑器操作：</p><ul><li>Ctrl + Space：代码自动完成</li><li>Ctrl + Alt + L：格式化代码</li><li>Ctrl + Alt + O：优化导入语句</li><li>Ctrl + B：跳转到定义</li><li>Ctrl + Alt + B：跳转到实现</li><li>Ctrl + E：打开最近的文件</li><li>Ctrl + Shift + T：在当前编辑器中打开类的测试代码</li><li>Ctrl + Shift + F10：运行上次运行的程序</li><li>Ctrl + Shift + F9：调试上次运行的程序</li></ul></li><li><p>项目导航：</p><ul><li>Alt + 1：打开&#x2F;关闭项目工具窗口</li><li>Alt + 4：打开&#x2F;关闭控制台窗口</li><li>Alt + 7：打开&#x2F;关闭结构视图窗口</li><li>Alt + F1：在项目工具窗口中显示当前文件</li><li>Ctrl + Shift + N：打开文件或目录</li></ul></li><li><p>安装PyCharm：您可以从JetBrains官网上下载适合您操作系统的PyCharm版本，并按照安装向导进行安装。</p></li><li><p>创建新项目：启动PyCharm后，单击“Create New Project”按钮创建一个新项目。在弹出的“New Project”对话框中，设置项目名称和存储位置，并选择Python解释器。如果您的系统中已经安装了多个Python版本，请确保选择正确的解释器版本。单击“Create”按钮创建新项目。</p></li><li><p>创建新文件：在项目中创建新文件，可以使用右键单击项目名称，选择“New”-&gt;“Python File”命令，或者单击主菜单上的“File”-&gt;“New”-&gt;“Python File”命令。输入文件名并单击“OK”按钮创建新文件。</p></li><li><p>编写代码：在新文件中，您可以编写Python代码。如果您不熟悉Python语言，可以使用PyCharm的代码自动完成和语法检查功能。只需输入代码的一部分，PyCharm就会提供有关该代码的建议和自动完成选项。</p></li><li><p>运行代码：要运行Python代码，可以使用菜单上的“Run”-&gt;“Run”命令或按下Shift + F10键。PyCharm会自动检测代码中的错误并运行它。您可以在控制台窗口中查看代码的输出结果。</p></li><li><p>调试代码：如果您需要调试Python代码，可以使用菜单上的“Run”-&gt;“Debug”命令或按下Shift + F9键。这将启动调试器并允许您逐行执行代码，并查看代码的变量和数据结构的值。</p></li><li><p>版本控制：PyCharm还可以与版本控制系统（如Git和Subversion）集成，帮助您管理代码库并进行版本控制。您可以使用PyCharm的“VCS”菜单中的命令来执行版本控制操作，如拉取和提交代码更改。</p></li></ol>]]></content>
       
       
       
@@ -86,7 +143,7 @@
       <link href="/2023/03/21/python%E5%AD%A6%E4%B9%A0/"/>
       <url>/2023/03/21/python%E5%AD%A6%E4%B9%A0/</url>
       
-        <content type="html"><![CDATA[<h2 id="cs6b1"><a href="#cs6b1" class="headerlink" title="cs6b1"></a>cs6b1</h2><p>（1）diagram </p><p>Frames Objects</p><p>（2）An environment is a sequence of frames.</p><p>A frame is a binding between names and values.</p><p>（3）Look for fitst in the local frame; second in the global frame.</p><p>   (4)   pure functions: just return values</p><p>           non-pure functions: have side effects</p><p>(5) &#x2F; 除  truediv(a,b)   a&#x2F;b</p><p>  &#x2F;&#x2F;  整除  floordiv(a,b)  a&#x2F;&#x2F;b</p><p>(6) false value: False ,0,’ ‘,None</p><p>      true value: anything else</p><p>(7)def search(f):<br>    x&#x3D;0<br>    while True:<br>        if f(x):<br>            return x<br>        x+&#x3D;1  </p><p>def inverse(f):<br>    return lambda y:search(lambda x:f(x)&#x3D;&#x3D;y)  </p><p>def square(x):<br>    return x**2  </p><p>sqrt&#x3D;inverse(square)  </p><p>print(sqrt(4))</p><p>(8)def indentity(k):<br>    return k  </p><p>def cube(k):<br>    return pow(k,3)  </p><p>def summation(n,term):<br>    total,k&#x3D;0,1<br>    while k&lt;&#x3D;n:<br>        total,k&#x3D;total+term(k),k+1<br>    return total  </p><p>print(summation(5,cube))<br>print(summation(5,indentity))</p><p>(9)higher-order function</p><p>def make_adder(n):<br>    def adder(m):<br>        return 2*m+n<br>    return adder  </p><p>f&#x3D;make_adder(1)<br>print(f(2))</p><p>(10) currying: Transforming a multi-argument function into a single-argument, higher-order function</p><p>def curry2(f):<br>    def g(x):<br>        def h(y):<br>            return f(x,y)<br>        return h<br>    return g  </p><p>from operator import add<br>m&#x3D;curry2(add)  </p><p>add_three&#x3D;m(3)<br>add_two&#x3D;add_three(2)<br>print(add_two)  </p><p>curry2&#x3D;lambda f: lambda x: lambda y: f(x,y)<br>m1&#x3D;curry2(add)<br>m(2)(3)  </p><p>print(m(2)(3))</p><p>(11)name: 1) meaning or purpose</p><p>                   2) documented in docstring</p><p>                   3) function effect(print), behavior(triple), return(abs)</p><h2 id="oop"><a href="#oop" class="headerlink" title="oop"></a>oop</h2><h4 id="types"><a href="#types" class="headerlink" title="types:"></a>types:</h4><p>(1)Single Inheritance</p><p>(2)Multiple Inheritance</p><p>(3)Multilevel Inheritance</p><p>(4)Hierarchical Inheritance</p><p>(5)Hybrid Inheritance</p><h2 id="Data-structure"><a href="#Data-structure" class="headerlink" title="Data structure"></a>Data structure</h2><p>list :append()加一个或者一个list</p><p>insert(position,item)</p><p>extend([]) </p><p>tuple:+连接</p><p>列表推导式 [表达式 for 迭代变量 in 可迭代变量[if 条件表达式]]（list comprehension)</p><p>两层循环 [(x,y) for x in range(1,4) for y in range(1,5)]</p><p>运行时间：</p><p>import time</p><p>s_time&#x3D;time.perf_counter()<br>demo1()<br>e_time&#x3D;time.perf_counter()  </p><p>print(“运行时间：”,e_time-s_time)</p><p>dictionary中不能有重复key，会覆盖</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="cs6b1"><a href="#cs6b1" class="headerlink" title="cs6b1"></a>cs6b1</h2><p>（1）diagram </p><p>Frames Objects</p><p>（2）An environment is a sequence of frames.</p><p>A frame is a binding between names and values.</p><p>（3）Look for fitst in the local frame; second in the global frame.</p><p>   (4)   pure functions: just return values</p><p>           non-pure functions: have side effects</p><p>(5) &#x2F; 除  truediv(a,b)   a&#x2F;b</p><p>  &#x2F;&#x2F;  整除  floordiv(a,b)  a&#x2F;&#x2F;b</p><p>(6) false value: False ,0,’ ‘,None</p><p>      true value: anything else</p><p>(7)def search(f):<br>    x&#x3D;0<br>    while True:<br>        if f(x):<br>            return x<br>        x+&#x3D;1  </p><p>def inverse(f):<br>    return lambda y:search(lambda x:f(x)&#x3D;&#x3D;y)  </p><p>def square(x):<br>    return x**2  </p><p>sqrt&#x3D;inverse(square)  </p><p>print(sqrt(4))</p><p>(8)def indentity(k):<br>    return k  </p><p>def cube(k):<br>    return pow(k,3)  </p><p>def summation(n,term):<br>    total,k&#x3D;0,1<br>    while k&lt;&#x3D;n:<br>        total,k&#x3D;total+term(k),k+1<br>    return total  </p><p>print(summation(5,cube))<br>print(summation(5,indentity))</p><p>(9)higher-order function</p><p>def make_adder(n):<br>    def adder(m):<br>        return 2*m+n<br>    return adder  </p><p>f&#x3D;make_adder(1)<br>print(f(2))</p><p>(10) currying: Transforming a multi-argument function into a single-argument, higher-order function</p><p>def curry2(f):<br>    def g(x):<br>        def h(y):<br>            return f(x,y)<br>        return h<br>    return g  </p><p>from operator import add<br>m&#x3D;curry2(add)  </p><p>add_three&#x3D;m(3)<br>add_two&#x3D;add_three(2)<br>print(add_two)  </p><p>curry2&#x3D;lambda f: lambda x: lambda y: f(x,y)<br>m1&#x3D;curry2(add)<br>m(2)(3)  </p><p>print(m(2)(3))</p><p>(11)name: 1) meaning or purpose</p><p>                   2) documented in docstring</p><p>                   3) function effect(print), behavior(triple), return(abs)</p><p>(12)cascade(the order of recursion)</p><p>first type:</p><p>def cascade(n):<br>    if n&lt;10:<br>        print(n)<br>    else:<br>        print(n)<br>        cascade(n&#x2F;&#x2F;10)<br>        print(n)</p><p>second type:</p><p>def cascade(n):<br>    print(n)<br>    if n&gt;&#x3D;10:<br>        cascade(n&#x2F;&#x2F;10)<br>        print(n)</p><p>first type has typical structure, put the base case first</p><p>inverse_cascade</p><p>def inverse_cascade(n):<br>    grow(n)<br>    print(n)<br>    shrink(n)  </p><p>def f_then_g(f,g,n):<br>    if n:<br>        f(n)<br>        g(n)  </p><p>grow&#x3D;lambda n:f_then_g(grow,print,n&#x2F;&#x2F;10)<br>shrink&#x3D;lambda n:f_then_g(print,shrink,n&#x2F;&#x2F;10)</p><h2 id="oop"><a href="#oop" class="headerlink" title="oop"></a>oop</h2><h4 id="types"><a href="#types" class="headerlink" title="types:"></a>types:</h4><p>(1)Single Inheritance</p><p>(2)Multiple Inheritance</p><p>(3)Multilevel Inheritance</p><p>(4)Hierarchical Inheritance</p><p>(5)Hybrid Inheritance</p><h2 id="Data-structure"><a href="#Data-structure" class="headerlink" title="Data structure"></a>Data structure</h2><p>list :append()加一个或者一个list</p><p>insert(position,item)</p><p>extend([]) </p><p>tuple:+连接</p><p>列表推导式 [表达式 for 迭代变量 in 可迭代变量[if 条件表达式]]（list comprehension)</p><p>两层循环 [(x,y) for x in range(1,4) for y in range(1,5)]</p><p>运行时间：</p><p>import time</p><p>s_time&#x3D;time.perf_counter()<br>demo1()<br>e_time&#x3D;time.perf_counter()  </p><p>print(“运行时间：”,e_time-s_time)</p><p>dictionary中不能有重复key，会覆盖</p>]]></content>
       
       
       <categories>
